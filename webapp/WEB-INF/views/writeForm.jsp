@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 	
 
 	
@@ -25,7 +24,7 @@
 		<button type="submit">등록</button>
 	</form>
 	
-	<h5><a href = "/pb3/phone/list">리스트 바로가기</a></h5>
+	<h5><a href = "${pageContext.request.contextPath }/phone/list">리스트 바로가기</a></h5>
 
 </body>
 </html>
