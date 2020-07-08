@@ -9,10 +9,6 @@
 
 
 
-
-
-
-
 	<properties>
 		<org.springframework-version>4.3.3.RELEASE</org.springframework-version>
 	</properties>
@@ -42,16 +38,12 @@
 		</dependency>
 
 
-
 		<!-- jstl -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
-
-
-
 
 		<!-- Oracle JDBC -->
 		<dependency>
@@ -80,26 +72,7 @@
 			<version>1.2.0</version>
 		</dependency>
 
-
-
-
-
-
-
-
-
-
-
 	</dependencies>
-
-
-
-
-
-
-
-
-
 
 
 
